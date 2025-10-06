@@ -7,6 +7,7 @@ body{
   padding: 0px;
   background-image: linear-gradient(to top, #916b20f2 ,#E4B03C );
   background-repeat: no-repeat;
+  height: 100vh;
 }
 
 img{
